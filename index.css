@@ -1,0 +1,19 @@
+.back{
+  display: flex;
+  width: 200px;
+  height: 100px;
+  border: 1px solid;
+}
+
+.item1{
+  background-color: white;
+  flex-basis: 50%;
+}
+.item2{
+  background-color: black;
+  flex-basis: 50%;
+}
+.text{
+  mix-blend-mode: difference;
+  position: absolute;
+}
