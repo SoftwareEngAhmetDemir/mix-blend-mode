@@ -16,4 +16,5 @@
 .text{
   mix-blend-mode: difference;
   position: absolute;
+  color: white;
 }
